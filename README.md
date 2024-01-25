@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Blake Anthony 👋
 
 - 🐍 I've been coding in Python for over 10 years.
-- 🚂 I'm the founder of Purdue's [NanoML team](https://nanoml.org/>).
+- 🚂 I'm the founder of Purdue's [NanoML team](https://nanoml.org/).
 - 🌱 I’m currently learning ml-devops and front-end.
 - 📫 How to reach me: wilso692@purdue.edu
 - 😄 Pronouns: he/him
