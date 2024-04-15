@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📜 Ph.D. in ECE from Purdue University.
 - 🚂 I'm the founder of Purdue's [NanoML team](https://nanoml.org/).
 - 🌱 I’m currently learning ml-devops and front-end.
-- 📫 How to reach me: wilso692@purdue.edu
+- 📫 How to reach me: blakewilson@alumni.purdue.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've moved close to 30 times in my life.
 
