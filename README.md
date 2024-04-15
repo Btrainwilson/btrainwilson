@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 ### Hi, I'm Blake Anthony 👋
 
 - 🐍 I've been coding in Python for over 10 years.
+- 📜 Ph.D. in ECE from Purdue University.
 - 🚂 I'm the founder of Purdue's [NanoML team](https://nanoml.org/).
 - 🌱 I’m currently learning ml-devops and front-end.
 - 📫 How to reach me: wilso692@purdue.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've moved close to 30 times in my life.
 
-I'm an ECE Ph.D Candidate at Purdue University making the most of Python for simulating neutral atom systems, CUDA-accelerated optimization, and developing machine learning models.
+I'm a recent Ph.D. grad making the most of Python for simulating neutral atom systems, CUDA-accelerated optimization, and developing machine learning models.
 I'm currently looking for a computational scientist or research engineer position working on software for physics and ML driven companies. I'd especially enjoy working at a startup where software moves fast and I can make an impact quickly. If you're hiring, let's chat!
