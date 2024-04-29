@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Blake Anthony 👋
 
-- 📜 Ph.D. in ECE from Purdue University.
+- 📜 Ph.D. in Electrical and Computer Engineering from Purdue University.
 - 🐍 I've been coding in Python for over 10 years.
 - 🚂 I'm the founder of Purdue's [NanoML team](https://nanoml.org/).
 - 🌱 I’m currently learning ml-devops and front-end.
