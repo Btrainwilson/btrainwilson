@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### Hi, I'm Blake Anthony 👋
 
 - 📜 Ph.D. in Electrical and Computer Engineering from Purdue University.
-- 🐍 I've been coding in Python for over 10 years.
-- 🚂 I'm the founder of Purdue's [NanoML team](https://nanoml.org/).
-- 🌱 I’m currently learning ml-devops and front-end.
+- 🐍 Python for over 10 years.
+- 🚂 Founder of Purdue's [NanoML team](https://nanoml.org/).
+- 🌱 Learning ml-devops and front-end.
 - 📫 How to reach me: blakewilson@alumni.purdue.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've moved close to 30 times in my life.
