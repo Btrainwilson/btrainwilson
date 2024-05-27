@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Blake Anthony 👋
 
 - 📜 Ph.D. in Electrical and Computer Engineering from Purdue University.
+- 👨🏼‍💻 Quantinuum - Quantum Machine Learning Researcher
 - 🐍 Python for over 10 years.
 - 🚂 Founder of Purdue's [NanoML team](https://nanoml.org/).
 - 🌱 Learning ml-devops and front-end.
