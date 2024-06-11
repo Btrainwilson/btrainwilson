@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Blake Anthony 👋
 
+- 👨🏼‍💻 Quantum Machine Learning Research Scientist @ Quantinuum
 - 📜 Ph.D. in Electrical and Computer Engineering from Purdue University.
-- 👨🏼‍💻 Quantinuum - Quantum Machine Learning Researcher
 - 🐍 Python for over 10 years.
 - 🚂 Founder of Purdue's [NanoML team](https://nanoml.org/).
 - 🌱 Learning ml-devops and front-end.
 - 📫 How to reach me: blakewilson@alumni.purdue.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've moved close to 30 times in my life.
-
-I'm a recent Ph.D. grad making the most of Python for simulating neutral atom systems, CUDA-accelerated optimization, and developing machine learning models.
