@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 Learning ml-devops and front-end.
 - 📫 How to reach me: blakewilson@alumni.purdue.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've moved close to 30 times in my life.
+
