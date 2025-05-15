@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Blake Anthony 👋
 
-- 👨🏼‍💻 Research Scientist @ Quantinuum
+- 👨🏼‍💻 Research Scientist @ Quantinuum (see [blakewilson](https://github.com/blakewilsonquantinuum))
 - 📜 Ph.D. in Electrical and Computer Engineering from Purdue University.
 - 🐍 Python for over 10 years.
 - 🚂 Founder of Purdue's [NanoML team](https://nanoml.org/).
